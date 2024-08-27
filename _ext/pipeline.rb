@@ -1,6 +1,5 @@
 require 'mytagger'
 require 'relative'
-require 'sassc'
 require 'link_renderer'
 require 'redirect_creator'
 
