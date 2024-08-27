@@ -12,8 +12,6 @@ gem 'haml', '< 6.0'    # Haml 6 would require udpating our filter registration c
 # Enable a Markdown gem (only rdiscount seems to work w/ the site):
 gem 'rdiscount', '~> 2.0.7', :platforms => [:ruby]
 
-# using libsass to fasten Sass compilation
-gem 'sassc'
 gem 'sass'
 gem 'rake'
 
